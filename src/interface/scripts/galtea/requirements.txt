@@ -1,0 +1,2 @@
+galtea>=5.3.1
+requests>=2.31

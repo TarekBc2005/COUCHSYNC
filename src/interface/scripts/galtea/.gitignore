@@ -1,0 +1,3 @@
+# Saved attack results (they contain generated attack prompts and the app's answers)
+results/
+__pycache__/

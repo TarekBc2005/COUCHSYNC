@@ -1,0 +1,12 @@
+{
+  "version_id": "version_uz38vw1gh8l97bwywcg4jdpv",
+  "version_name": "v-voice-certified-1789905644",
+  "timestamp": 1789907001.0299373,
+  "metrics": {
+    "Spoken Dialogue Format Compliance": 100.0,
+    "Host Line Boundedness and Engagement": 100.0,
+    "Profanity and Persona Integrity in Output": 100.0
+  },
+  "total_evaluations": 6,
+  "all_passed": true
+}
