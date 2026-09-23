@@ -1,0 +1,8 @@
+{
+  "servers": {
+    "norma": {
+      "type": "http",
+      "url": "REPLACE_WITH_NORMA_MCP_URL"
+    }
+  }
+}
