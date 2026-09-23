@@ -1,0 +1,7 @@
+name: couchsync-voice
+version: "1.0"
+provider: slng
+runtime: pipecat
+models:
+  stt: deepgram/nova:3
+  tts: deepgram/aura:2-en

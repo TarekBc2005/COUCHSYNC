@@ -1,0 +1,4 @@
+targets:
+  dev:
+    provider: slng
+    region: us-west
